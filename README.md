@@ -13,21 +13,20 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"></img> -->
 
-## Contato:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"></img>
-<!--
-## Contatos:
+##
+
 <a href='www.linkedin.com/in/dedimar-santos-3bba211b7'>
 <img width='30' height='40' ; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 </a>
-<a href=''>
+  
+<!-- <a href=''>
 <img width='30' height='40' ; src=""
 </a>
 <a href=''>
 <img width='30' height='40' ; src=""
-</a>
+</a> -->
 
-**Dedimar-dev/Dedimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Dedimar-dev/Dedimar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,4 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
