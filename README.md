@@ -1,4 +1,4 @@
-## Olá, eu sou Dedimar Santos 👋
+# Olá, eu sou Dedimar Santos 👋
 
 <div>
 <img height='200px' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
