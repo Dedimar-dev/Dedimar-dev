@@ -1,8 +1,8 @@
 ## Olá, eu sou Dedimar Santos 👋
 
 <div>
-<img height='220px' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
-<img height='220px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&langs_count=8&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats'/>
+<img height='200px' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
+<img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&langs_count=8&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats'/>
 </div>
 
 ## Linguagens de programação:
