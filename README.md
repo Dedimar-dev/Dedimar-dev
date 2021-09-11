@@ -1,9 +1,9 @@
 ## Olá, eu sou Dedimar Santos 👋
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&langs_count=8&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats) 
-
+<div>
+<img height='220px' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
+<img height='220px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&langs_count=8&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats'/>
+</div>
 
 ## Linguagens de programação:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"></img>
@@ -13,12 +13,12 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"></img> -->
 
-<!-- ##
- 
+
+ <!--
 <a href='www.linkedin.com/in/dedimar-santos-3bba211b7'>
 <img width='30' height='40' ; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 </a>
-  
+<!--
  <a href=''>
 <img width='30' height='40' ; src=""
 </a>
