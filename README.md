@@ -1,8 +1,8 @@
 # Olá, eu sou Dedimar Santos 👋
 
 <div >
-  <img  height='190' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
-  <img height='190' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&layout=compact&langs_count=8&theme=dark&show_icons=true))]     (https://github.com/anuraghazra/github-readme-stats'/>
+  <img  height='180' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
+  <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dedimar-dev&layout=compact&langs_count=8&theme=dark&show_icons=true))]     (https://github.com/anuraghazra/github-readme-stats'/>
 </div><br>
 
 ## Linguagens de programação:
@@ -15,7 +15,7 @@
 
 
  ## Contatos:
-<a href='http://www.linkedin.com/in/dedimar-santos-3bba211b7'>
+<a href='http://www.linkedin.com/in/dedimar-santos-3bba211b7' target='_blank'>
   <img width='40' height='40' ; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
