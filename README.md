@@ -1,10 +1,4 @@
 <h1 align="center">Olá, eu sou Dedimar Santos 👋</h1> 
-
-<div>
-  <img height='160' src='https://github-readme-stats.vercel.app/api?username=Dedimar-dev&theme=dark&show_icons=true'/>
-  
-</div>
-
 #
 
 
